@@ -11,10 +11,10 @@ here is a working demo that might interest you.
 
 ## Installation
 
-1.  Install pnpm globally:
+1.  Install pnpm & tsx globally:
 
     ```bash
-    npm install -g pnpm
+    npm install -g pnpm tsx
     ```
 2.  Install dependencies using pnpm:
 
