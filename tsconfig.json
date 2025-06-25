@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "bundler",
+    "module": "preserve", // Module system (CommonJS for Node.js)
+    "target": "ES2022", // The JavaScript version to output (ES6, ES5, etc.)
+    "esModuleInterop": true, // Enable interoperability with ES Modules
+    
+    "outDir": "./build",
+    "rootDir": "./",
+    
+    // Strict type checking
+    "strict": true,
+
+    "sourceMap": true,
+    
+    // Node.js specific
+    "types": ["node"]
+  },
+  
+  "include": [
+    "./**/*",
+    "*.ts"
+  ],
+  
+  "exclude": [
+    "node_modules",
+    "build"
+  ]
+}

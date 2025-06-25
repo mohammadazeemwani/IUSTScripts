@@ -1,0 +1,26 @@
+{
+  "name": "send-feedback",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "pnpm exec borp --coverage",
+    "legendaryWork": "tsx index.ts"
+  },
+  "keywords": [],
+  "author": "mohammadazeem.in",
+  "license": "ISC",
+  "packageManager": "pnpm@10.12.3",
+  "dependencies": {
+    "@types/node": "^24.0.4",
+    "axios": "^1.10.0",
+    "cheerio": "^1.1.0",
+    "desm": "^1.3.1",
+    "dotenv": "^16.5.0"
+  },
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.10",
+    "borp": "github:mcollina/borp",
+    "typescript": "^5.8.3"
+  }
+}
