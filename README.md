@@ -2,8 +2,7 @@
 
 ## Demo
 here is a working demo that might interest you.
-<video src="https://github.com/mohammadazeemwani/IUSTScripts/blob/main/demo/working-demo-lecture-feedback.mp4" controls></video>
-
+<video src="https://github.com/user-attachments/assets/380c3699-b078-4a38-b2dd-04e88d45f5cd"></video>
 
 ## Requirements
 
@@ -66,4 +65,6 @@ When running the script will do the following for now.
 - Tip: click Preserve logs >> it saves life... xP.
 
 Here a quick demo that might help.
-<video src="https://github.com/mohammadazeemwani/IUSTScripts/blob/main/demo/how-to-get-cookie.mp4" controls></video>
+<video src="https://github.com/user-attachments/assets/afbb76fe-4a1f-4635-9df1-8754f4f64ad4"></video>
+
+
