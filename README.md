@@ -54,6 +54,11 @@ When running the script will do the following for now.
   - Lecture taught: yes
   - Rating: 5 star
   - Comment: Excellent Lecture delivered.
+  - Delay between two submissions: 
+    - it is a range: default [400, 900] in ms.
+  - When IUST figures out we are doing too many requests; `429` error,
+    - default delay: 45000ms.
+    *yes it takes this much normally to restore our reputation with IUST servers*
 
 
 

@@ -1,7 +1,8 @@
 /** timeout is in ms */
 export const timeout = 50_000;
-/** sleep is in ms */
-export const sleepBetweenTwoFeedbacks = 5_000;
+
+/** delay is in ms */
+export const delayForTooManyReq = 45_000;
 
 export const formURL = 'https://studentservice.iust.ac.in/Services/ls-acknowledge-lecture-plan'
 
