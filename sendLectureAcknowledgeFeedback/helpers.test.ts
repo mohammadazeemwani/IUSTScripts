@@ -50,7 +50,7 @@ describe('IUST sendFeedback tests', async () => {
     if (oneCourseVsTopic) {
       const { courseId, courseName, topicId, topicName } = oneCourseVsTopic;
       await assert.doesNotReject(
-        sendFeedBack({ courseId, courseName, topicId, topicName})
+        sendFeedBack({ courseId, topicId })
       )
     } else {
       assert(false, 'Test failed cz data required to sendFeed back was not useful: oneCourseVsTopic was null')
